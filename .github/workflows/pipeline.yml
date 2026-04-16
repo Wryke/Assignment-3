@@ -1,5 +1,5 @@
 # TODO: implement your pipeline here
-lint → validate → deploy
+# lint → validate → deploy
 
 name: Portfolio Pipeline
 
